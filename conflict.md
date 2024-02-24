@@ -4,7 +4,7 @@ Please refer to main document for images of process used and repository states a
 
 Local repository states are from the 'aaronelarkin' account.
 
-
+# Step 06 Q1:
 ## Steps (after creating pull requests for each branch created for each ingredient):
 - 'We' identified that all pull requests included the particular ingredient on the second line. Conflicts are inevitable.
 - 'We' agreed upon an ordering of ingredients (Cheese, Bacon, Egg) between buns
@@ -60,3 +60,7 @@ Local repo of the main branches after pulling:
     Bacon
     Egg
     bottom bun
+
+
+# Step 06 Q2:
+The merge conflicts in this exercise could have been avoided if the contributors had avoided writing code that affected the same file line(s). A better workflow could involve pushing regularly and modularly and allocating sections of code to be worked upon. 
